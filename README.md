@@ -1,4 +1,4 @@
-#Voice Assistant with GPT Integration
+##Voice Assistant with GPT Integration
 This project is a voice-activated assistant that listens to user input, uses OpenAI's GPT model to generate responses, and optionally speaks the responses back to the user. It combines speech recognition, language processing, and text-to-speech capabilities.
 
 #Features
